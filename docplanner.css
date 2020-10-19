@@ -1,0 +1,183 @@
+body{
+    padding-bottom: 0px;
+    padding-left: 5em;
+    padding-right:5em ;
+    margin: 0em;
+}
+.logo-docplanner {
+    width: 268px;
+    height: 33px;
+}
+#box{
+display: flex;
+justify-content:space-between;
+
+}
+#l1{
+    padding: 20px;
+    color: lightseagreen;
+}
+#l2{
+    padding: 20px;
+    color: gray;
+
+}
+#img
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 5em;
+}
+.title{
+   display: flex;
+   justify-content: center;
+    color: lightseagreen;
+    font-size:40px;
+    font-style:italic;
+    font-weight: bold;
+
+}
+.pr1{
+    padding-left: 2em;
+    padding-bottom: 1.5em;
+}
+.parg{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    font-size: 20px;
+    font-style:italic ;
+
+}
+.par2
+{
+    display: flex;
+    justify-content:flex-end;
+    
+     
+}
+#p1{
+
+margin: 15px;
+border-radius: 20px;
+background-color: turquoise;
+width: 60em;
+height:15em;
+color: white;
+margin: 15px;
+padding-left: 20px;
+font-size: 1.3em;
+padding-top: 2em;
+
+}
+#p2{
+    padding-top:2em ;
+    font-size:1.3em;
+   color: white;
+    width: 60em;
+    height:15em;
+    margin: 15px;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-color: cornflowerblue;
+}
+#select{
+    background-color: white;
+    width: 10pc;
+    height:30px ;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 5px white;
+    font-size: 15px;
+   margin-left: 1em;
+    margin-top: 3em;
+
+}
+.img1{
+
+width:10em ;
+height:8em;
+margin-left:15em;
+}
+.img2
+{
+    height: 8em;
+    width: 10em;
+    margin-left:15em;
+    margin-top: 5em;
+}
+#t5{
+    color: cyan;
+    font-size: 2em;
+    font-weight: bold;
+
+    
+}
+.x{
+display: flex;
+justify-content: space-around;
+
+
+}
+.img3{
+width:1em ;
+height: 1em;
+
+
+
+}
+.lien{
+    justify-content: space-between;
+    margin: 4em;
+    
+}
+.boxs{
+    background-color:  rgb(135, 194, 188);
+
+}
+.y{
+    color: teal;
+    font-size:2em ;
+    font-weight: bold;
+    padding-top: 2em;
+    padding-left: 2em;
+
+}
+.t{
+    color: gray;
+    font-size: 1em;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 4em;
+  font-size:1em;
+ 
+}
+.img4{
+padding-left: 3em;
+width:20em;
+height:20em;
+padding-top: 2em;
+}
+#f{
+    display: flex;
+    justify-content: center;
+    color: teal;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 3em;
+
+}
+#c{
+    display: flex;
+    justify-content: center;
+    color: gray;
+    font-size: 1em;
+    padding-top: 1em;
+}
+
+
+.photo{
+    display: flex;
+    justify-content: flex-start;
+
+}
